@@ -1586,19 +1586,19 @@
       }
     },
     "film-7379faa9d1e199fb8b1ab3e8": {
-      "rev": "0000000000000-00000000-0000-4000-8000-000000000000",
+      "rev": "1795286910492-2112979d-4202-4512-923b-eb8bc6ce0dee",
       "value": {
-        "title": "Avengers - Endgame Encore",
-        "year": "2026",
-        "poster": "",
-        "description": "",
-        "director": "",
-        "genre": "",
-        "runtime": 0,
-        "rating": 0,
-        "cast": "",
-        "imdb": "",
-        "origin": "",
+        "title": "Avengers: Endgame",
+        "year": "2019",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+        "description": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos's actions and undo the chaos to the universe, no matter what consequences may be in store, and no matter who they face...",
+        "director": "Anthony Russo, Joe Russo",
+        "genre": "Action, Adventure, Sci-Fi",
+        "runtime": 181,
+        "rating": 8.4,
+        "cast": "Robert Downey Jr., Chris Evans, Mark Ruffalo",
+        "imdb": "tt4154796",
+        "origin": "United States",
         "mood": "",
         "catalogued": true
       }
