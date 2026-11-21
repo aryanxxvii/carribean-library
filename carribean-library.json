@@ -164,17 +164,17 @@
       }
     },
     "film-0c5ac2f879554b865f66d875": {
-      "rev": "0000000000000-00000000-0000-4000-8000-000000000000",
+      "rev": "1795253098712-50507d50-f22e-48a5-acfe-b1ffd2ced1a3",
       "value": {
         "title": "Kagbeni",
         "year": "2008",
-        "poster": "https://afterlight-watchlist.aryanwdn.chatgpt.site/posters/03.webp",
-        "description": "A wish-granting paw finds its way into a Mustang village. Each wish comes with a price.",
-        "director": "",
-        "genre": "",
-        "runtime": 0,
-        "rating": 0,
-        "cast": "",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjExMzAyNjIwOV5BMl5BanBnXkFtZTcwNjI2OTEwNw@@._V1_SX300.jpg",
+        "description": "\"Kagbeni\" transplants the famous horror story, \"The Monkey's Paw\", to the mountains of Nepal. Krishna has returned to his village (Kagbeni) from Malaysia, and is reminiscing with his old friend Ramesh. They come upon an old hermit, who presents them with a cursed monkey's paw that has the power both to grant wishes, and twist their meaning to cause tragedies.",
+        "director": "Bhusan Dahal",
+        "genre": "Drama, Horror",
+        "runtime": 130,
+        "rating": 7.4,
+        "cast": "Saugat Malla, Deeya Maskey, Nima Rumba",
         "imdb": "tt1729652",
         "origin": "Nepal",
         "mood": "Folklore horror",
@@ -4110,9 +4110,9 @@
   },
   "lists": {
     "list-0846277a-31d3-4f34-80ed-1c7e5aa5eab0": {
-      "rev": "0000000000000-00000000-0000-4000-8000-000000000000",
+      "rev": "1795252961487-0fd92c80-3948-40e1-ac8d-3852a7f8ef00",
       "value": {
-        "name": "Hindi Cinema Beyond Bollywood"
+        "name": "Hindi Cinema"
       }
     },
     "list-196fc9e8-2d35-4ae2-8485-e4100d239856": {
