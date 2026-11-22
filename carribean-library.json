@@ -2917,6 +2917,24 @@
         "catalogued": false
       }
     },
+    "film-d1256cccac8bed67ec1b57e8": {
+      "rev": "1795365176535-11cd3dc4-0243-45b9-883a-73c8caddab29",
+      "value": {
+        "title": "Jurassic Park",
+        "year": "1993",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+        "description": "On a remote island, a wealthy entrepreneur secretly creates a theme park featuring living dinosaurs drawn from prehistoric DNA. Before opening the attraction to the public, he invites a top paleontologist, a paleobotanist, a mathematician/theorist, and his two eager grandchildren to experience the park -- and help calm anxious investors. However, their park visit is anything but tranquil as the park's security system breaks down, the prehistoric creatures break out, and the excitement builds to surprising results.",
+        "director": "Steven Spielberg",
+        "genre": "Adventure, Sci-Fi",
+        "runtime": 127,
+        "rating": 8.2,
+        "cast": "Sam Neill, Laura Dern, Jeff Goldblum",
+        "imdb": "tt0107290",
+        "origin": "United States",
+        "mood": "",
+        "catalogued": true
+      }
+    },
     "film-d15b76f8fbd11827b2873839": {
       "rev": "0000000000000-00000000-0000-4000-8000-000000000000",
       "value": {
