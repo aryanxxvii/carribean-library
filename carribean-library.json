@@ -469,6 +469,24 @@
         "catalogued": true
       }
     },
+    "film-25b5aed0113da1b57bcbf61c": {
+      "rev": "1795514119271-d2946fee-bb76-409e-a0c4-ac9b5f007596",
+      "value": {
+        "title": "Paths of Glory",
+        "year": "1957",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNmQ2NmI2ODYtMDQzNS00NzQyLTkzZjgtZmZlYTQ5MTc1OWU3XkEyXkFqcGc@._V1_QL75_UX380_CR0,10,380,562_.jpg",
+        "description": "The futility and irony of the war in the trenches in WWI is shown as a unit commander in the French army must deal with the mutiny of his men and a glory-seeking general after part of his force falls back under fire in an impossible attack.",
+        "director": "Stanley Kubrick",
+        "genre": "Drama, War",
+        "runtime": 88,
+        "rating": 8.4,
+        "cast": "Kirk Douglas, Ralph Meeker, Adolphe Menjou",
+        "imdb": "tt0050825",
+        "origin": "United States",
+        "mood": "",
+        "catalogued": true
+      }
+    },
     "film-26a33eb8376b4cc7e9d6467b": {
       "rev": "0000000000001-00000000-0000-4000-8000-000000000000",
       "value": {
@@ -2702,19 +2720,19 @@
       }
     },
     "film-c34e7baa598eb2f29cf1245f": {
-      "rev": "0000000000000-00000000-0000-4000-8000-000000000000",
+      "rev": "1795513998728-76f0ee26-a2de-443c-bd2d-46252a718980",
       "value": {
-        "title": "Dr  Strangelove",
+        "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
         "year": "1964",
-        "poster": "",
-        "description": "",
-        "director": "",
-        "genre": "",
-        "runtime": 0,
-        "rating": 0,
-        "cast": "",
-        "imdb": "",
-        "origin": "",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjFjYzBlOTktMTI2OS00ZWVhLTgxMDUtNzAwODY2NmI3YTAzXkEyXkFqcGc@._V1_QL75_UX380_CR0,14,380,562_.jpg",
+        "description": "Paranoid Brigadier General Jack D. Ripper of Burpelson Air Force Base, believing that fluoridation of the American water supply is a Soviet plot to poison the U.S. populace, is able to deploy through a back door mechanism a nuclear attack on the Soviet Union without the knowledge of his superiors, including the Chair of the Joint Chiefs of Staff, General Buck Turgidson, and President Merkin Muffley. Only Ripper knows the code to recall the B-52 bombers and he has shut down communication in and out of Burpelson as a measure to protect this attack. Ripper's executive officer, RAF Group Captain Lionel Mandrake (on exchange from Britain), who is being held at Burpelson by Ripper, believes he knows the recall codes if he can only get a message to the outside world. Meanwhile at the Pentagon War Room, key persons including Muffley, Turgidson and nuclear scientist and adviser, a former Nazi named Dr. Strangelove, are discussing measures to stop the attack or mitigate its blow-up into an all out nuclear war with the Soviets. Against Turgidson's wishes, Muffley brings Soviet Ambassador Alexi de Sadesky into the War Room, and get his boss, Soviet Premier Dimitri Kisov, on the hot line to inform him of what's going on. The Americans in the War Room are dismayed to learn that the Soviets have an as yet unannounced Doomsday Device to detonate if any of their key targets are hit. As Ripper, Mandrake and those in the War Room try and work the situation to their end goal, Major T.J. \"King\" Kong, one of the B-52 bomber pilots, is working on his own agenda of deploying his bomb where ever he can on enemy soil if he can't make it to his intended target.",
+        "director": "Stanley Kubrick",
+        "genre": "Comedy, War",
+        "runtime": 95,
+        "rating": 8.3,
+        "cast": "Peter Sellers, George C. Scott, Sterling Hayden",
+        "imdb": "tt0057012",
+        "origin": "United Kingdom",
         "mood": "",
         "catalogued": true
       }
@@ -3674,19 +3692,19 @@
       }
     },
     "film-f4b9392848603d5ad6f85acd": {
-      "rev": "0000000000000-00000000-0000-4000-8000-000000000000",
+      "rev": "1795514019803-3d1e378f-4091-44d1-ab76-6c5c3e4ef182",
       "value": {
         "title": "Paths of Glory",
-        "year": "1975",
-        "poster": "",
-        "description": "",
-        "director": "",
-        "genre": "",
-        "runtime": 0,
-        "rating": 0,
-        "cast": "",
-        "imdb": "",
-        "origin": "",
+        "year": "1957",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNmQ2NmI2ODYtMDQzNS00NzQyLTkzZjgtZmZlYTQ5MTc1OWU3XkEyXkFqcGc@._V1_QL75_UX380_CR0,10,380,562_.jpg",
+        "description": "The futility and irony of the war in the trenches in WWI is shown as a unit commander in the French army must deal with the mutiny of his men and a glory-seeking general after part of his force falls back under fire in an impossible attack.",
+        "director": "Stanley Kubrick",
+        "genre": "Drama, War",
+        "runtime": 88,
+        "rating": 8.4,
+        "cast": "Kirk Douglas, Ralph Meeker, Adolphe Menjou",
+        "imdb": "tt0050825",
+        "origin": "United States",
         "mood": "",
         "catalogued": true
       }
