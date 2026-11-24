@@ -2090,19 +2090,19 @@
       }
     },
     "film-99ebcade354802853001d578": {
-      "rev": "0000000000000-00000000-0000-4000-8000-000000000000",
+      "rev": "1795514155402-7ff5f053-1c03-4cf3-9f47-bd5d0764afcf",
       "value": {
-        "title": "Rambo - First Blood",
+        "title": "First Blood",
         "year": "1982",
-        "poster": "",
-        "description": "",
-        "director": "",
-        "genre": "",
-        "runtime": 0,
-        "rating": 0,
-        "cast": "",
-        "imdb": "",
-        "origin": "",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYzc4ZmQ5YzEtYTQzYy00ZDdiLWI2NmQtZTA3MzM1ZGIyYmUzXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+        "description": "John Rambo, a former Special Forces soldier, wanders into a small town seeking a former comrade, only to be confronted by Sheriff Will Teasle. After Teasle forces the drifter to leave, a misunderstanding leads to an arrest. Inside the police station, abusive treatment by deputies triggers horrific flashbacks of wartime captivity, compelling the veteran to escape into the nearby mountains. When an accident leads to a deputy's death, Teasle declares a full-scale manhunt. As state police and National Guard forces join the pursuit, Colonel Samuel Trautman arrives, warning the authorities that they are hunting a predator, not a victim. The veteran expertly weaponizes the forest, eventually forcing a desperate final confrontation within the town limits.",
+        "director": "Ted Kotcheff",
+        "genre": "Action, Adventure, Thriller",
+        "runtime": 93,
+        "rating": 7.7,
+        "cast": "Sylvester Stallone, Brian Dennehy, Richard Crenna",
+        "imdb": "tt0083944",
+        "origin": "United States",
         "mood": "",
         "catalogued": true
       }
@@ -2846,12 +2846,12 @@
       }
     },
     "film-ca0f049101392821f39b185c": {
-      "rev": "0000000000001-00000000-0000-4000-8000-000000000000",
+      "rev": "1795514331048-92bcce84-59f7-4f86-ac30-e50c954e1e9c",
       "value": {
         "title": "The Green Mile",
         "year": "1999",
-        "poster": "https://m.media-amazon.com/images/M/MV5BMTUxMzQyNjA5MF5BMl5BanBnXkFtZTYwOTU2NTY3._V1_SX300.jpg",
-        "description": "Death Row guards at a penitentiary, in the 1930's, have a moral dilemma with their job when they discover one of their prisoners, a convicted murderer, has a special gift.",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTUxMzQyNjA5MF5BMl5BanBnXkFtZTYwOTU2NTY3._V1_QL75_UX380_CR0,0,380,562_.jpg",
+        "description": "Based on Stephen King's 1996 novel of the same name. Stars Tom Hanks as a death row corrections officer during the U.S. Great Depression who witnesses supernatural events that occur after an enigmatic inmate (Michael Clarke Duncan) is brought to his facility.",
         "director": "Frank Darabont",
         "genre": "Crime, Drama, Fantasy",
         "runtime": 189,
@@ -3800,19 +3800,19 @@
       }
     },
     "film-f9e9d6887b10f2e2a2cbc3cf": {
-      "rev": "0000000000000-00000000-0000-4000-8000-000000000000",
+      "rev": "1795514174937-7923ced0-57e1-429a-ae4a-6883625b9c53",
       "value": {
         "title": "The Deer Hunter",
-        "year": "1978",
-        "poster": "",
-        "description": "",
-        "director": "",
-        "genre": "",
-        "runtime": 0,
-        "rating": 0,
-        "cast": "",
-        "imdb": "",
-        "origin": "",
+        "year": "1979",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZGI4YmVhMzMtMWExMS00MGZiLTg2MmItM2I2MWZjODAyM2U5XkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg",
+        "description": "Michael, Steven, and Nick are three best friends who enjoy going deer hunting quite often. They get enlisted to head to Vietnam to fight for their country and celebrate with a farewell party, as well as Steven marrying a pregnant woman named Angela. After the horrors during the war and edge-grabbing games of Russian Roulette that they are forced to play, Michael returns home and realizes that his deer hunting outings aren't the same as they used to be, because of the war and he eventually finds out that Steven is handicapped and Nick hasn't returned from Vietnam, and in response, he heads back there to rescue him.",
+        "director": "Michael Cimino",
+        "genre": "Drama, War",
+        "runtime": 183,
+        "rating": 8.1,
+        "cast": "Robert De Niro, Christopher Walken, John Cazale",
+        "imdb": "tt0077416",
+        "origin": "United States, United Kingdom",
         "mood": "",
         "catalogued": true
       }
