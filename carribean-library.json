@@ -3818,19 +3818,19 @@
       }
     },
     "film-f3974fe60d7c946d60e7c659": {
-      "rev": "0000000000000-00000000-0000-4000-8000-000000000000",
+      "rev": "1795543198819-159565d0-2a2b-4b19-bfb8-390e2e1afc6e",
       "value": {
-        "title": "The Human Condition III - A Soldier's Prayer",
-        "year": "1961",
-        "poster": "",
-        "description": "",
-        "director": "",
-        "genre": "",
-        "runtime": 0,
-        "rating": 0,
-        "cast": "",
-        "imdb": "",
-        "origin": "",
+        "title": "The Human Condition III: A Soldier's Prayer",
+        "year": "1970",
+        "poster": "https://m.media-amazon.com/images/M/MV5BOTk0YmJiOWItN2JlNS00NDUwLWExYjItMDhkMjYwODMwY2RlXkEyXkFqcGc@._V1_QL75_UY562_CR15,0,380,562_.jpg",
+        "description": "Part three of a trilogy. After the Japanese defeat to the Russians in the last episode, Kaji, the Japanese soldier and humanistic protagonist, leads the last remaining men through Manchuria. Intent on returning to his dear wife and his old life, Kaji faces great odds in a variety of different harrowing circumstances as he and his fellow men sneak behind enemy lines. Ultimately, he finds himself in the exact opposite position he held in the first episode: Then a labor manager, Kaji is now a prisoner of war, forced to work for the Russians, who do not seem to hold to the Communist ideals in which Kaji himself had put his faith.",
+        "director": "Masaki Kobayashi",
+        "genre": "Drama, History, War",
+        "runtime": 190,
+        "rating": 8.8,
+        "cast": "Tatsuya Nakadai, Michiyo Aratama, Tamao Nakamura",
+        "imdb": "tt0055233",
+        "origin": "Japan",
         "mood": "",
         "catalogued": true
       }
