@@ -1423,6 +1423,24 @@
         "catalogued": true
       }
     },
+    "film-5b85a996ba52cb19d0c1816c": {
+      "rev": "1795513939347-2b9cc3b4-9e50-4fd4-8711-f08d1d55f565",
+      "value": {
+        "title": "Unforgiven",
+        "year": "1992",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNmZmMzM3YWMtZjg5Yi00M2MxLTg3ZGItNGU4YjQxNDAxM2Q4XkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+        "description": "After escaping death by the skin of her teeth, the horribly disfigured prostitute, Delilah Fitzgerald, and her appalled and equally furious co-workers summon up the courage to seek retribution in 1880s Wyoming's dangerous town of Big Whiskey. With a hefty bounty on the perpetrators' heads, triggered by the tough Sheriff \"Little Bill\" Daggett's insufficient sense of justice, the infamous former outlaw and now destitute Kansas hog farmer, William Munny, embarks on a murderous last mission to find the men behind the hideous crime. Along with his old partner-in-crime, Ned Logan, and the brash but inexperienced young gunman, the \"Schofield Kid\", Munny enters a perilous world he has renounced many years ago, knowing that he walks right into a deadly trap; however, he still needs to find a way to raise his motherless children. Now, blood demands blood. Who is the hero, and who is the villain?",
+        "director": "Clint Eastwood",
+        "genre": "Drama, Western",
+        "runtime": 130,
+        "rating": 8.2,
+        "cast": "Clint Eastwood, Gene Hackman, Morgan Freeman",
+        "imdb": "tt0105695",
+        "origin": "United States",
+        "mood": "",
+        "catalogued": true
+      }
+    },
     "film-69cdd67cf293146d3985bfef": {
       "rev": "0000000000001-00000000-0000-4000-8000-000000000000",
       "value": {
@@ -2053,6 +2071,24 @@
         "catalogued": false
       }
     },
+    "film-99ebcade354802853001d578": {
+      "rev": "0000000000000-00000000-0000-4000-8000-000000000000",
+      "value": {
+        "title": "Rambo - First Blood",
+        "year": "1982",
+        "poster": "",
+        "description": "",
+        "director": "",
+        "genre": "",
+        "runtime": 0,
+        "rating": 0,
+        "cast": "",
+        "imdb": "",
+        "origin": "",
+        "mood": "",
+        "catalogued": true
+      }
+    },
     "film-99f5f29b2fb8ae112e1de7f1": {
       "rev": "1795253211287-874a882c-34ae-43b0-93ff-9086c8f41955",
       "value": {
@@ -2285,6 +2321,24 @@
         "origin": "Hindi",
         "mood": "Biographical drama",
         "catalogued": false
+      }
+    },
+    "film-aa12feee2086c94a1ad6a1ce": {
+      "rev": "1795513939347-b90a4cdc-de87-4f9d-b403-d0b4ac07b5d5",
+      "value": {
+        "title": "Raging Bull",
+        "year": "1980",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjlkYmYyZWQtNTZkOS00ZjA0LWEwNWUtNzE2ZGNiYjg0MjA2XkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg",
+        "description": "When Jake LaMotta steps into a boxing ring and obliterates his opponent, he's a prizefighter. But when he treats his family and friends the same way, he's a ticking time bomb, ready to go off at any moment. Though LaMotta wants his family's love, something always seems to come between them. Perhaps it's his violent bouts of paranoia and jealousy. This kind of rage helped make him a champ, but in real life he winds up in the ring alone.",
+        "director": "Martin Scorsese",
+        "genre": "Biography, Drama, Sport",
+        "runtime": 129,
+        "rating": 8.1,
+        "cast": "Robert De Niro, Cathy Moriarty, Joe Pesci",
+        "imdb": "tt0081398",
+        "origin": "United States",
+        "mood": "",
+        "catalogued": true
       }
     },
     "film-aa50cf1e54559841b0197734": {
@@ -2645,6 +2699,24 @@
         "origin": "Nepal",
         "mood": "Everyday drama",
         "catalogued": false
+      }
+    },
+    "film-c34e7baa598eb2f29cf1245f": {
+      "rev": "0000000000000-00000000-0000-4000-8000-000000000000",
+      "value": {
+        "title": "Dr  Strangelove",
+        "year": "1964",
+        "poster": "",
+        "description": "",
+        "director": "",
+        "genre": "",
+        "runtime": 0,
+        "rating": 0,
+        "cast": "",
+        "imdb": "",
+        "origin": "",
+        "mood": "",
+        "catalogued": true
       }
     },
     "film-c41ada27375bf588a86fd945": {
@@ -3601,6 +3673,24 @@
         "catalogued": true
       }
     },
+    "film-f4b9392848603d5ad6f85acd": {
+      "rev": "0000000000000-00000000-0000-4000-8000-000000000000",
+      "value": {
+        "title": "Paths of Glory",
+        "year": "1975",
+        "poster": "",
+        "description": "",
+        "director": "",
+        "genre": "",
+        "runtime": 0,
+        "rating": 0,
+        "cast": "",
+        "imdb": "",
+        "origin": "",
+        "mood": "",
+        "catalogued": true
+      }
+    },
     "film-f58e9ce6987fb530c7357157": {
       "rev": "0000000000001-00000000-0000-4000-8000-000000000000",
       "value": {
@@ -3687,6 +3777,24 @@
         "cast": "Owen Wilson, Adrien Brody, Jason Schwartzman",
         "imdb": "tt0838221",
         "origin": "United States, India",
+        "mood": "",
+        "catalogued": true
+      }
+    },
+    "film-f9e9d6887b10f2e2a2cbc3cf": {
+      "rev": "0000000000000-00000000-0000-4000-8000-000000000000",
+      "value": {
+        "title": "The Deer Hunter",
+        "year": "1978",
+        "poster": "",
+        "description": "",
+        "director": "",
+        "genre": "",
+        "runtime": 0,
+        "rating": 0,
+        "cast": "",
+        "imdb": "",
+        "origin": "",
         "mood": "",
         "catalogued": true
       }
@@ -3938,8 +4046,8 @@
       "value": true
     },
     "film-189e8e2dd81a8962ec11b1ac": {
-      "rev": "0000000000001-00000000-0000-4000-8000-000000000000",
-      "value": true
+      "rev": "1795513118689-4f2f886e-70b8-401d-ba07-e002e314262c",
+      "value": false
     },
     "film-1bd9b1abc6c36472b5f783ea": {
       "rev": "0000000000001-00000000-0000-4000-8000-000000000000",
@@ -3978,8 +4086,8 @@
       "value": true
     },
     "film-37944ca60dc87a4d1cc6d80e": {
-      "rev": "1795275770054-7d29c18a-bd38-4cde-a030-c61bc8a0e5bf",
-      "value": false
+      "rev": "1795367129706-3306e92f-f17f-45c8-9e53-d8e1ca1d7edc",
+      "value": true
     },
     "film-38ee24c08f6b40ebdefff847": {
       "rev": "0000000000001-00000000-0000-4000-8000-000000000000",
@@ -4051,6 +4159,10 @@
     },
     "film-72e0f1ef0bf39319e4824d3e": {
       "rev": "0000000000001-00000000-0000-4000-8000-000000000000",
+      "value": true
+    },
+    "film-7379faa9d1e199fb8b1ab3e8": {
+      "rev": "1795513122519-2b77bbf5-1835-4547-86b4-0728537a9386",
       "value": true
     },
     "film-75ae50f5b27c60c43187f28f": {
