@@ -3691,6 +3691,24 @@
         "catalogued": true
       }
     },
+    "film-eda7c226135f9001cacddc54": {
+      "rev": "1795627032593-b021adf7-239d-40ef-80a5-0f199c973faf",
+      "value": {
+        "title": "Barry Lyndon",
+        "year": "1975",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNmM2MGQ5Y2UtYzA3ZC00ZDJlLTkwNDYtMjBmZGExZDJiN2RlXkEyXkFqcGc@._V1_QL75_UX380_CR0,8,380,562_.jpg",
+        "description": "In the eighteenth century, in a small village in Ireland, Redmond Barry (Ryan O'Neal) is a young farm boy in love with his cousin Nora Brady (Gay Hamilton). When Nora gets engaged to British Captain John Quin (Leonard Rossiter), Barry challenges him to a duel of pistols. He wins and escapes to Dublin, but is robbed on the road. Without an alternative, Barry joins the British Army to fight in the Seven Years War. He deserts and is forced to join the Prussian Army, where he saves the life of his Captain and becomes his protégé and spy of Irish gambler Chevalier de Balibari (Patrick Magee). He helps Chevalier and becomes his associate until he decides to marry the wealthy Lady Lyndon (Marisa Berenson). They move to England and Barry, in his obsession of nobility, dissipates her fortune and makes a dangerous and revengeful enemy.",
+        "director": "Stanley Kubrick",
+        "genre": "Adventure, Drama, War",
+        "runtime": 185,
+        "rating": 8.1,
+        "cast": "Ryan O&apos;Neal, Marisa Berenson, Patrick Magee",
+        "imdb": "tt0072684",
+        "origin": "United Kingdom, United States",
+        "mood": "",
+        "catalogued": true
+      }
+    },
     "film-edc51a6537947acc6d7045ea": {
       "rev": "0000000000000-00000000-0000-4000-8000-000000000000",
       "value": {
