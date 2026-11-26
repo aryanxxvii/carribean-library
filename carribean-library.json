@@ -883,6 +883,24 @@
         "catalogued": true
       }
     },
+    "film-39b53ce935809ea2ec56058f": {
+      "rev": "1795725002299-8090b3bc-8923-4d33-81ac-955bbf947983",
+      "value": {
+        "title": "Casino",
+        "year": "1995",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMDRlZWZjZjYtYzY2NS00ZWVjLTkwYzAtZTA2ZDAzMGRiYmYwXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+        "description": "This Martin Scorsese film depicts the Janus-like quality of Las Vegas: it has a glittering, glamorous face, as well as a brutal, cruel one. Ace Rothstein and Nicky Santoro, mobsters who move to Las Vegas to make their mark, live and work in this paradoxical world. Seen through their eyes, each as a foil to the other, the details of mob involvement in the casinos of the 1970s and '80s are revealed. Ace is the smooth operator of the Tangiers casino, while Nicky is his boyhood friend and tough strongman, robbing and shaking down the locals. However, they each have a tragic flaw: Ace falls in love with hustler Ginger, and Nicky falls into an ever-deepening spiral of drugs and violence.",
+        "director": "Martin Scorsese",
+        "genre": "Crime, Drama",
+        "runtime": 178,
+        "rating": 8.2,
+        "cast": "Robert De Niro, Sharon Stone, Joe Pesci",
+        "imdb": "tt0112641",
+        "origin": "United States, France",
+        "mood": "",
+        "catalogued": true
+      }
+    },
     "film-3b1b9090b2f7fd48293fcabd": {
       "rev": "0000000000001-00000000-0000-4000-8000-000000000000",
       "value": {
@@ -1473,6 +1491,24 @@
         "cast": "Arun Govil, Nikhil Kapoor, Edie Mirman",
         "imdb": "tt0259534",
         "origin": "India, Japan",
+        "mood": "",
+        "catalogued": true
+      }
+    },
+    "film-5ae4548db575c1aec33a7878": {
+      "rev": "0000000000000-00000000-0000-4000-8000-000000000000",
+      "value": {
+        "title": "L A  Confidential",
+        "year": "1997",
+        "poster": "",
+        "description": "",
+        "director": "",
+        "genre": "",
+        "runtime": 0,
+        "rating": 0,
+        "cast": "",
+        "imdb": "",
+        "origin": "",
         "mood": "",
         "catalogued": true
       }
@@ -2629,6 +2665,24 @@
         "catalogued": false
       }
     },
+    "film-b3badc32d33589ac2186d20c": {
+      "rev": "1795725002299-bb766fca-c83e-40c9-b24b-b8e5a01d47b6",
+      "value": {
+        "title": "Blade Runner",
+        "year": "1982",
+        "poster": "https://m.media-amazon.com/images/M/MV5BOWQ4YTBmNTQtMDYxMC00NGFjLTkwOGQtNzdhNmY1Nzc1MzUxXkEyXkFqcGc@._V1_QL75_UX380_CR0,2,380,562_.jpg",
+        "description": "In the early twenty-first century, the Tyrell Corporation, during what was called the Nexus phase, developed robots, called \"replicants\", that were supposed to aid society, the replicants which looked and acted like humans. When the superhuman generation Nexus 6 replicants, used for dangerous off-Earth endeavors, began a mutiny on an off-Earth colony, replicants became illegal on Earth. Police units, called \"blade runners\", have the job of destroying - or in their parlance \"retiring\" - any replicant that makes its way back to or created on Earth, with anyone convicted of aiding or assisting a replicant being sentenced to death. It's now November, 2019 in Los Angeles, California. Rick Deckard, a former blade runner, is called out of retirement when four known replicants, most combat models, have made their way back to Earth, with their leader being Roy Batty. One, Leon Kowalski, tried to infiltrate his way into the Tyrell Corporation as an employee, but has since been able to escape. Beyond following Leon's trail in hopes of finding and retiring them all, Deckard believes part of what will help him is figuring out what the replicants wanted with the Tyrell Corporation in trying to infiltrate it. The answer may lie with Tyrell's fail-safe backup mechanism. Beyond tracking the four, Deckard faces a possible dilemma in encountering a fifth replicant: Rachael, who works as Tyrell's assistant. The issue is that Dr. Elden Tyrell is experimenting with her, to provide her with fake memories so as to be able to better control her. With those memories, Rachael has no idea that she is not human. The problem is not only Rachael's assistance to Deckard, but that he is beginning to develop feelings for her.",
+        "director": "Ridley Scott",
+        "genre": "Action, Drama, Sci-Fi",
+        "runtime": 117,
+        "rating": 8.1,
+        "cast": "Harrison Ford, Rutger Hauer, Sean Young",
+        "imdb": "tt0083658",
+        "origin": "United States, United Kingdom, Hong Kong",
+        "mood": "",
+        "catalogued": true
+      }
+    },
     "film-b431f582b11221ba4bdbeb95": {
       "rev": "0000000000001-00000000-0000-4000-8000-000000000000",
       "value": {
@@ -3404,17 +3458,17 @@
       }
     },
     "film-e22704791dbc4916fa992f1c": {
-      "rev": "0000000000001-00000000-0000-4000-8000-000000000000",
+      "rev": "1795711504086-3cb3fe3f-e68e-420a-bdc8-7e74cdba5c27",
       "value": {
         "title": "Woman in the Dunes",
         "year": "1964",
-        "poster": "https://m.media-amazon.com/images/M/MV5BM2E1ZjY5MjItZTUxZS00NTI1LWEwMmEtODhlMDAyMzUyOTRmXkEyXkFqcGc@._V1_SX300.jpg",
-        "description": "An entomologist on vacation is trapped by local villagers into living with a woman whose life task is shoveling sand for them.",
+        "poster": "https://m.media-amazon.com/images/M/MV5BM2E1ZjY5MjItZTUxZS00NTI1LWEwMmEtODhlMDAyMzUyOTRmXkEyXkFqcGc@._V1_QL75_UY562_CR7,0,380,562_.jpg",
+        "description": "Jumpei Niki, a Tokyo based entomologist and educator, is in a poor seaside village collecting specimens of sand insects. As it is late in the day and as he has missed the last bus back to the city, some of the local villagers suggest that he spend the night there, they offering to find him a place to stay. That place is the home of a young woman, whose house is located at the bottom of a sand pit accessible only by ladder. He later learns that the woman's husband and child died in a sandstorm, their undiscovered bodies buried somewhere near the house. The next morning as he tries to leave, he finds that the ladder is gone - he realizing that the ladder he climbed down was a rope ladder which is anchored above the pit - meaning that he is trapped with the young woman as the walls of the pit are sand with no grip. He also realizes that this entrapment was the villagers and the young woman's plan for him to stay there permanently to be her helper in the never-ending task of digging out the sand, which if not done will swallow them alive. They are dependent upon the villagers to help remove the sand, but also for their rations including water. He learns that the sand is the young woman's life, and that she knows or wants no other life. Thus, it is no use either to blackmail or kill her as she is willing to live and die by this life, and as such he will surely die if she is dead. His life tasks become to figure out a way to escape while co-exist with the woman in what he considers their prison. As time goes on, he also learns that there are other tasks which will consume him.",
         "director": "Hiroshi Teshigahara",
         "genre": "Drama, Thriller",
         "runtime": 147,
         "rating": 8.4,
-        "cast": "Eiji Okada, Kyôko Kishida, Kôji Mitsui",
+        "cast": "Eiji Okada, Kyôko Kishida, Koji Mitsui",
         "imdb": "tt0058625",
         "origin": "Japan",
         "mood": "",
@@ -3903,6 +3957,42 @@
         "cast": "Deepika Padukone, Ranbir Kapoor, Naila Grrewal",
         "imdb": "tt3148502",
         "origin": "India",
+        "mood": "",
+        "catalogued": true
+      }
+    },
+    "film-f5b1bcaf042fa367d001c0f5": {
+      "rev": "1795725002300-cb5ed5ec-a3f3-4f09-bbaf-e57da11b5325",
+      "value": {
+        "title": "No Country for Old Men",
+        "year": "2007",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjA5Njk3MjM4OV5BMl5BanBnXkFtZTcwMTc5MTE1MQ@@._V1_QL75_UY562_CR1,0,380,562_.jpg",
+        "description": "In rural Texas, welder and hunter Llewelyn Moss (Josh Brolin) discovers the remains of several drug runners who have all killed each other in an exchange gone violently wrong. Rather than report the discovery to the police, Moss decides to simply take the two million dollars present for himself. This puts the psychopathic killer, Anton Chigurh (Javier Bardem), on his trail as he dispassionately murders nearly every rival, bystander and even employer in his pursuit of his quarry and the money. As Moss desperately attempts to keep one step ahead, the blood from this hunt begins to flow behind him with relentlessly growing intensity as Chigurh closes in. Meanwhile, the laconic Sheriff Ed Tom Bell (Tommy Lee Jones) blithely oversees the investigation even as he struggles to face the sheer enormity of the crimes he is attempting to thwart.",
+        "director": "Ethan Coen, Joel Coen",
+        "genre": "Crime, Drama, Thriller",
+        "runtime": 122,
+        "rating": 8.2,
+        "cast": "Tommy Lee Jones, Javier Bardem, Josh Brolin",
+        "imdb": "tt0477348",
+        "origin": "United States",
+        "mood": "",
+        "catalogued": true
+      }
+    },
+    "film-f64c150aaa77cd662204a98f": {
+      "rev": "1795725002300-45757186-1e21-4c7b-af25-4091bc0e74f6",
+      "value": {
+        "title": "Oldboy",
+        "year": "2003",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTAwNzNjYWItZmI0Ni00ZTcyLWIwNWMtZjlmNGMxZTEyYTJmXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+        "description": "Oh Dae-Su, an obnoxious drunk abducted on a rainy night in 1988, wakes up in a strange, windowless hotel room. Kept under lock and key for an unknown reason, Oh Dae-Su's invisible captors keep him fed and systematically sedated to avert suicide, providing only a colour television to keep him company. And after fifteen long years in captivity, perplexed Oh Dae-Su finds himself released. Now, his pitiless abductors encourage Oh Dae-Su to track down the ones behind the mysterious kidnapping and finally get his brutal, longed-for revenge on the unknown tormentor. However, who would hate Oh Dae-Su so much that he would deny him a quick and clean death?",
+        "director": "Park Chan-wook",
+        "genre": "Action, Drama, Mystery",
+        "runtime": 120,
+        "rating": 8.3,
+        "cast": "Choi Min-sik, Yoo Ji-tae, Kang Hye-jeong",
+        "imdb": "tt0364569",
+        "origin": "South Korea",
         "mood": "",
         "catalogued": true
       }
